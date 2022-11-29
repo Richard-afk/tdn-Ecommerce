@@ -18,7 +18,7 @@ btn.on('click', function() {
 // 2. Display products based on 
 // All, Men or Female categories.
 // ==================================
-  const productTag = document.querySelector('name="tabset"');
+  /*const productTag = document.querySelector('name="tabset"');
   const catalogue = document.querySelectorAll(".catalogue");
   productTag.addEventListener('change', () => {
     catalogue.forEach(element => {
@@ -35,7 +35,7 @@ btn.on('click', function() {
       }
     });
   })
-//i have no idea why this isn't working 😅
+//i have no idea why this isn't working 😅*/
 
 
 
@@ -61,8 +61,6 @@ const displayItems = () =>{
   } 
 
 }
-
-
 
 
 /*
